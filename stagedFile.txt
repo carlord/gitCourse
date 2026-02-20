@@ -1,1 +1,1 @@
-staged1
+Cambio del viernes 20 de febrero para validar el tracking de git a cambips de archivo.
